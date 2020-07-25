@@ -4,7 +4,8 @@
 
 We'll review the file structure we'll be using for our MVC Sinatra applications.
 
-## Objectives
+
+k## Objectives
 
 1. Explain the files and folders in a Sinatra MVC file structure
 2. Describe the different folders in the `app` directory and create new files
